@@ -1,4 +1,5 @@
 NAME=metwork-buildimage
+DOCKER_USERNAME=hawker65
 
 build:
 	docker build -t ${DOCKER_USERNAME}/$(NAME):latest -f ./metwork_dependencies/Dockerfile ./
