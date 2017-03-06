@@ -1,2 +1,5 @@
 # metwork-buildimage
-Docker image containing the build requirement for the Metwork project
+
+**WARNING : NOT READY AT ALL!!!**
+
+Docker image containing the build requirements for the Metwork project
