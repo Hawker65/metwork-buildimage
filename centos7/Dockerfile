@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:centos7
 LABEL name="Metwork install dependancies" desc="Intall dependancies for Metwork modules" version="1.0"
 
 RUN yum -y install gcc \
