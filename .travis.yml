@@ -9,3 +9,4 @@ script:
 deploy:
     provider: script
     script: make release
+    skip_cleanup: true
